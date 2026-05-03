@@ -1,5 +1,9 @@
 # 🏠 House Price Predictor — From Scratch
 
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+
 A complete machine learning application that predicts house prices using **Linear Regression implemented from scratch** with NumPy and gradient descent — no scikit-learn for the model itself.
 
 > **Test result:** Custom model achieves **R² = 0.957 / RMSE ≈ $21,597** on the test set, nearly identical to sklearn's Linear Regression, validating the from-scratch implementation.
